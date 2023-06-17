@@ -1,2 +1,2 @@
-# nodejs-notes
-My notes to setup and manage a node.js project.
+# Node JS
+My notes for setting up and managing a node project.
